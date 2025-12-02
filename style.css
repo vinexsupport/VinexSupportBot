@@ -9,16 +9,16 @@ html {
 }
 
 .blurple {
-  color: #7289da;
+  color: #87CEEB;
 }
 
 .bg-base {
-  background-color: #1a2634 !important;
+  background-color: #FFFFFF !important;
 }
 
 #backtotop {
   display: inline-block;
-  background-color: #7289da;
+  background-color: #87CEEB;
   width: 50px;
   height: 50px;
   text-align: center;
@@ -56,12 +56,12 @@ html {
 
 .navbar-item:hover {
   background-color: transparent !important;
-  color: #7289da !important;
+  color: #87CEEB !important;
 }
 
 .navbar-link:hover {
   background-color: transparent !important;
-  color: #7289da !important;
+  color: #FFFFFF !important;
 }
 
 .navbar-menu {
@@ -242,3 +242,4 @@ nav.nav-w {
     display: none;
   }
 }
+
